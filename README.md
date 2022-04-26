@@ -2,5 +2,4 @@
 
 blood Donor Management system
 
-frontend is mostly done
 

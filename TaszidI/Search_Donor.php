@@ -10,9 +10,9 @@
 include("top_nav.php");
 ?>
 
-    <!-- Page Content -->
+
     <div class="container-fluid"  style='margin-top:70px;'>
-        <!-- Marketing Icons Section -->
+ 
         <div class="row">
             <div class="col-lg-12">
 			 <h3 class=" text-primary">
@@ -37,7 +37,7 @@ include("top_nav.php");
 						<div class="form-group">
 							<label class="control-label text-primary">Search Type</label>
 								<select name="STYPE"  id="STYPE" required class="form-control input-sm">
-									<!-- <option value="PINCODE">Pincode</option> -->
+							
 									<option value="AREA">Area</option>
 									<option value="CITY">City</option>
 									<option value="STATE">State</option>

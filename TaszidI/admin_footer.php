@@ -2,7 +2,6 @@
   <div class=" container-fluid">
     <div class="row">
       <div class="col-sm-12" >
-		<!-- <p align="center">Copyright &copy; Saving Crew</p> -->
       </div>
     </div>
   </div>
